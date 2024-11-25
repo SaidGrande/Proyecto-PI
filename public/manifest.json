@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "MyGymApp",
+  "name": "Mi Primera Aplicacion de Gimnasio",
   "icons": [
     {
       "src": "favicon.ico",
