@@ -24,7 +24,7 @@ Sigue estos pasos para abrir y correr el proyecto en tu máquina local:
 ### 1️⃣ Clonar o Descargar el Repositorio
 1. Descarga el proyecto como un archivo ZIP o clona el repositorio:
    ```bash
-   git clone <https://github.com/SaidGrande/Proyecto-PI.git>
+   git clone https://github.com/SaidGrande/Proyecto-PI.git
    ```
 2. Abre la carpeta del proyecto en **Visual Studio Code**.
 
